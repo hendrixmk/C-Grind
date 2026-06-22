@@ -1,2 +1,2 @@
-# C-Grind
-From Hello World to Real Programs
+# The C-Grind
+From Hello World to the Cloud
