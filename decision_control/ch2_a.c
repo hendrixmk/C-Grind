@@ -14,8 +14,8 @@ int main()
 	}
 	else if(selling_price < cost){
 		printf("The loss incurred by the seller is: %.2lf\n", cost - selling_price);
-	}
-	else{
+	}else{
 		printf("The product is sold with no profit and loss\n");
-	}return 0;
+	}
+	return 0;
 }
